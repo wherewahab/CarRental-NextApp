@@ -66,7 +66,7 @@ const Footer = () => {
           </div>
 
           <div className="text-sm font-light">
-            © 2023 Car Rental. All rights reserved. Designed by{" "}
+            © 2025 Car Rental. All rights reserved. Designed by{" "}
             <Link
               href={"https://github.com/wherewahab"}
               target="_blank"
